@@ -1,0 +1,16 @@
+#Test the marvel data set formatting
+# these lines
+# "should 	not be parsed"  
+"a"	"b"
+"a"	"c"
+"a"	"d"
+"a"	"g"
+"b"	"a"
+"b"	"c"
+"b"	"d"
+"c"	"d"
+"c"	"e"
+"c"	"f"
+"g"	"f"
+"f"	"g"
+"g"	"a"
